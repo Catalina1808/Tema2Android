@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="address">Address:</string>
+    <string name="geo">Geo:</string>
+    <string name="company">Company:</string>
+    <string name="arrow">&#9759;</string>
+</resources>
